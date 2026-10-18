@@ -359,6 +359,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp)** - Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.
 - **[Exa](https://github.com/theishangoswami/exa-mcp-server)** - Exa AI Search API
 - **[Excel](https://github.com/haris-musa/excel-mcp-server)** - Excel manipulation including data reading/writing, worksheet management, formatting, charts, and pivot table
+- **[Extra](https://github.com/AIYantra/extra)** - Sovereign, flashless native desktop automation and computer-use engine with sub-3ms vision, pixel-accurate clicks, and instant typing across Linux (Wayland & X11), Windows, and macOS.
 - **[Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server)** - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - **[Facebook Ads Library](https://github.com/trypeggy/facebook-ads-library-mcp)** - Get any answer from the Facebook Ads Library, conduct deep research including messaging, creative testing and comparisons in seconds.
 - **[Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics)** - Access and analyze Fathom Analytics data and reports
